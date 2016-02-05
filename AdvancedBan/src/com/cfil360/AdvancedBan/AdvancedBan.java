@@ -15,7 +15,7 @@ public class AdvancedBan extends JavaPlugin {
     String prefix = "§8[§2AdvancedBan§8]";
 
     public void onEnable() {
-        mySQL = new MySQL("localhost", "root", "connor1", "minecraft");
+        mySQL = new MySQL("localhost", "r", "passwordtest", "db");
         getCommand("admin").setExecutor(new CommandManager());
 
         Bukkit.getPluginManager().registerEvents(new JoinListener(), this);
