@@ -19,7 +19,7 @@ public class PointsAPI extends JavaPlugin implements Listener{
     String prefix = "§8[§2PointsAPI§8]";
 
     public void onEnable() {
-        mySQL = new MySQL("localhost", "root", "connor1", "minecraft");
+        mySQL = new MySQL("localhost", "r", "pass", "db");
         Bukkit.getPluginManager().registerEvents(this, this);
     }
 

@@ -14,7 +14,7 @@ public class ChatLogger extends JavaPlugin {
     static MySQL mySQL;
 
     public void onEnable() {
-        mySQL = new MySQL("localhost", "root", "connor1", "Minecraft");
+        mySQL = new MySQL("localhost", "r", "passwordtest", "db");
         Bukkit.getPluginManager().registerEvents(new ChatListener(), this);
     }
 

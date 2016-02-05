@@ -17,7 +17,7 @@ public class ShopAPI extends JavaPlugin {
     public static MySQL mySQL;
 
     public void onEnable() {
-        mySQL = new MySQL("localhost", "root", "connor1", "Minecraft");
+        mySQL = new MySQL("localhost", "r", "pass", "db");
     }
 
     public static void insertPurchase(Player player, String name, String item, int price) {
