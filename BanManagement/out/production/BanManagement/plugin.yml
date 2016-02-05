@@ -1,0 +1,15 @@
+name: BanManagement
+version: 1.0
+main: com.cfil360.BanManagement.BanManagement
+description: Ban people from your server.  Also has a web frontend.
+
+commands:
+  ban:
+    usage: /<command> <player> <message>
+    description: Ban a player.
+  unban:
+    usage: /<command> <player>
+    description: Unban a player.
+  checkban:
+    usage: /<command> <player>
+    description: Checks the status of a ban.

@@ -1,0 +1,16 @@
+# Please use any value from 0.1 - 100 in increments of 0.1
+# This gives you 1000 different choices to set the chance of something happenening.
+
+Creeper_Fail: 0.1W
+Random_Effect:
+  Chance: 0.1
+  Length: 30
+Leaf_Drops: 1
+Mining_Fail: 0.1
+Craft_Fail: 0.1
+Cook_Fail: 0.1
+Enderpearl_Fail: 0.1
+Enderman_Drop: 0.1
+Potion_Fail: 0.1
+Daylight_Fail: 0.1
+Enchant_Fail: 0.1

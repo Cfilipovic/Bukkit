@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BanManagement:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft/plugins</output-path>
+    <root id="archive" name="BanManagement.jar">
+      <element id="module-output" name="BanManagement" />
+    </root>
+  </artifact>
+</component>

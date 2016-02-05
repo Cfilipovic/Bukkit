@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameCore">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Minecraft/Lobby/plugins/GameCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

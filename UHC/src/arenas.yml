@@ -1,0 +1,9 @@
+1:
+  Game: "Hunger Games"
+  Name: "1"
+  MaxPlayers: 24
+  Lobby: "World,0,100,0"
+  Spawns:
+    - "World,0,100,0"
+    - "World,0,100,0"
+    - "World,0,100,0"

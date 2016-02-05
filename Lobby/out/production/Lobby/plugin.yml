@@ -1,0 +1,13 @@
+name: Lobby
+version: 1.0
+main: com.cfil360.lobby.Lobby
+author: cfil360
+website: http://www.cfil360.com
+prefix: &aLobby
+description: Lobby plugin
+
+commands:
+    hub:
+        usage: /<command>
+        aliases: [lobby]
+        description: Returns the player to the hub server

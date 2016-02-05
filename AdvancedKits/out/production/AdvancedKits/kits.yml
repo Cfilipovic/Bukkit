@@ -1,0 +1,172 @@
+# !!!!!PLEASE READ!!!!!
+#
+# Items:
+#      Please use item ids.
+#      The list can be found here http://minecraft-ids.grahamedgecombe.com/
+# Enchantments:
+#      Please use enchantment ids.
+#      The list can be found at
+#      http://minecraft.gamepedia.com/Enchanting#Data_values
+#      If you don't want an item to have an enchantment use -1
+# Potion Effects:
+#      Please use potion effect ids
+#      The list can be found at
+#      http://minecraft.gamepedia.com/Potion_effects
+#      The length of potion effects is in seconds
+#      If you don't want a kit to have potion effects use -1
+
+
+
+Scout:
+  Price: 10
+  Potion_Effect:
+    ID: 1
+    Strength: 2
+    Length: 120
+  Weapon:
+    Name: "Slayer"
+    ItemID: 272
+    Enchantment:
+      ID: 19
+      Level: 1
+  Helmet:
+    Name: ""
+    ItemID: 306
+    Enchantment:
+      ID: 0
+      Level: 1
+  Chestplate:
+    Name: ""
+    ItemID: 307
+    Enchantment:
+      ID: 0
+      Level: 1
+  Leggings:
+    Name: ""
+    ItemID: 308
+    Enchantment:
+      ID: 0
+      Level: 1
+  Boots:
+    Name: ""
+    ItemID: 309
+    Enchantment:
+      ID: 0
+      Level: 1
+  Other:
+    1:
+      Name: ""
+      ItemID: 260
+      Amount: 2
+      Enchantment:
+        ID: -1
+        Level: 1
+    2:
+      Name: ""
+      ItemID: 259
+      Amount: 1
+      Enchantment:
+        ID: -1
+        Level: 1
+Archer:
+  Price: 10
+  Potion_Effect:
+      ID: -1
+      Strength: 1
+      Length: 10
+  Weapon:
+    Name: "Bow of Death"
+    ItemID: 261
+    Enchantment:
+      ID: 51
+      Level: 1
+  Helmet:
+    Name: ""
+    ItemID: 306
+    Enchantment:
+      ID: 0
+      Level: 1
+  Chestplate:
+    Name: ""
+    ItemID: 307
+    Enchantment:
+      ID: 0
+      Level: 1
+  Leggings:
+    Name: ""
+    ItemID: 308
+    Enchantment:
+      ID: 0
+      Level: 1
+  Boots:
+    Name: ""
+    ItemID: 309
+    Enchantment:
+      ID: 0
+      Level: 1
+  Other:
+    1:
+      Name: ""
+      ItemID: 260
+      Amount: 2
+      Enchantment:
+        ID: -1
+        Level: 1
+    2:
+      Name: ""
+      ItemID: 262
+      Amount: 32
+      Enchantment:
+        ID: -1
+        Level: 1
+    3:
+      Name: ""
+      ItemID: 268
+      Amount: 1
+      Enchantment:
+        ID: -1
+        Level: 1
+Heavy:
+  Price: 10
+  Potion_Effect:
+      ID: 2
+      Strength: 1
+      Length: 60
+  Weapon:
+    Name: "Hulk"
+    ItemID: 272
+    Enchantment:
+      ID: 19
+      Level: 1
+  Helmet:
+    Name: ""
+    ItemID: 306
+    Enchantment:
+      ID: 0
+      Level: 1
+  Chestplate:
+    Name: ""
+    ItemID: 311
+    Enchantment:
+      ID: 0
+      Level: 1
+  Leggings:
+    Name: ""
+    ItemID: 308
+    Enchantment:
+      ID: 0
+      Level: 1
+  Boots:
+    Name: ""
+    ItemID: 309
+    Enchantment:
+      ID: 0
+      Level: 1
+  Other:
+    1:
+      Name: ""
+      ItemID: 260
+      Amount: 2
+      Enchantment:
+        ID: -1
+        Level: 1

@@ -1,0 +1,26 @@
+name: AdvancedBan
+version: 1.0
+main: com.cfil360.AdvancedBan.AdvancedBan
+author: cfil360
+website: http://www.cfil360.com
+prefix: &aPointsAPI
+description: Advanced ban system
+
+
+commands:
+    admin:
+        usage: /<command>
+        description: Basic command
+
+permissions:
+   AdvancedBan.*:
+     description: Gives access to all AdvancedBan commands
+     children:
+       AdvancedBan.Ban: true
+       AdvancedBan.Unban: true
+   inferno.Ban:
+     description: Allows you to ban players
+     default: op
+   inferno.Unban:
+     description: Allows you to unban players
+     default: op

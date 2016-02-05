@@ -1,0 +1,7 @@
+name: ChatLogger
+version: 1.0
+main: com.cfil360.chatlogger.ChatLogger
+author: cfil360
+website: http://www.cfil360.com
+prefix: &aChatLogger
+description: A chat logger plugin

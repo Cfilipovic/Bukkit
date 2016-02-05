@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShopAPI:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft/plugins</output-path>
+    <root id="archive" name="ShopAPI.jar">
+      <element id="module-output" name="ShopAPI" />
+    </root>
+  </artifact>
+</component>

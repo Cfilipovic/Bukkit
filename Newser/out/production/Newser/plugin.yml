@@ -1,0 +1,11 @@
+name: Newser
+version: 1.0
+main: com.cfil360.newser.Newser
+author: cfil360
+website: http://www.cfil360.com
+description: A news plugin
+
+commands:
+    News:
+        usage: /<command>
+        description: Learn about current server news and updates

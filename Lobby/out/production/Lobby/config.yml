@@ -1,0 +1,13 @@
+Servers:
+  Lobby:
+    Name: "Lobby"
+    Server: "Lobby"
+  PVP:
+    Name: "PVP"
+    Server: "PVP"
+  SurvivalGames:
+    Name: "SurvivalGames"
+    Server: "SurvivalGames"
+  UHC:
+    Name: "UHC"
+    Server: "UHC"

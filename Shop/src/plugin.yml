@@ -1,0 +1,18 @@
+name: Shop
+version: 1.0
+main: com.cfil360.shop.Shop
+author: cfil360
+website: http://www.cfil360.com
+prefix: &aShop
+description: Shop plugin
+
+
+commands:
+    purchases:
+        usage: /<command>
+        aliases: [purchases]
+        description: Lists player's purchase history
+    shop:
+        usage: /<command>
+        aliases: [shop]
+        description: Basic shop command

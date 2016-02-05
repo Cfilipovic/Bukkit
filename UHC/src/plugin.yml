@@ -1,0 +1,13 @@
+name: UHC
+version: 1.0
+main: com.cfil360.uhc.UHC
+author: cfil360
+website: http://www.cfil360.com
+description: A UHC plugin
+softdepend: [GameCore]
+
+commands:
+    UHC:
+        usage: /<command>
+        description: Basic command
+        aliases: []

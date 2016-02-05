@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PointsAPI:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft/plugins</output-path>
+    <root id="archive" name="PointsAPI.jar">
+      <element id="module-output" name="PointsAPI" />
+    </root>
+  </artifact>
+</component>
