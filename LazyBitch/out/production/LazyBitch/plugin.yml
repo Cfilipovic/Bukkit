@@ -1,8 +1,0 @@
-name: LazyBitch
-version: 1.0
-description:
-author: Cfil360
-website: http://www.cfil360.com
-
-main: com.cfil360.lazybitch.LazyBitch
-database: false
